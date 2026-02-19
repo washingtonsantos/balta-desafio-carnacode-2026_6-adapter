@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <File Path="src/Challenge.cs" />
+    <Project Path="src/Adapter/Adapter.csproj" Id="69881fc2-a6b3-4054-8fbb-679ee3387a9d" />
+  </Folder>
+</Solution>
